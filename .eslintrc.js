@@ -6,6 +6,7 @@ module.exports = {
   'extends': [
     'plugin:react/recommended',
     'google',
+    "next/core-web-vitals"
   ],
   'parserOptions': {
     'ecmaFeatures': {
